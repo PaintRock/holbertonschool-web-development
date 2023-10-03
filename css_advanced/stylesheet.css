@@ -1,0 +1,14 @@
+/* This is the CSS for my HTML*/
+/*This is an attempt to set the size for my header section*/
+.header {
+    width: 1440px; /*width set to 1440*/
+    height: 1093px; /*height set to 1063 pixels*/
+}
+
+.header-background {
+background-image: ("Images/background.png");
+background-position: center center;
+background-size: cover;
+background-repeat: no repeat;
+}
+
