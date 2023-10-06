@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-source-sans-pro: "Source Sans Pro";
+  --font-coiny: Coiny;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-mediumorchid: #c271ff;
+  --color-gray-100: #071629;
+  --color-gray-200: rgba(7, 22, 41, 0.5);
+
+  /* Border radiuses */
+  --br-3xl: 22px;
+  --br-8xs: 5px;
+}
