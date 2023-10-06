@@ -1,0 +1,689 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.smileschool {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 32.54%;
+}
+.logo,
+.smile-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.smile-icon {
+  height: 98.2%;
+  width: 21.53%;
+  top: 0.08%;
+  right: 78.12%;
+  bottom: 1.72%;
+  left: 0.35%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.logo {
+  height: 12.05%;
+  width: 11.74%;
+  top: 38.15%;
+  right: 76.81%;
+  bottom: 49.8%;
+  left: 11.46%;
+}
+.smileschool-2020 {
+  position: absolute;
+  top: calc(50% + 70.5px);
+  left: 46.67%;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-source-sans-pro);
+  opacity: 0.35;
+  mix-blend-mode: normal;
+}
+.part-5-footer,
+.social-icons {
+  position: absolute;
+  overflow: hidden;
+}
+.social-icons {
+  height: 12.05%;
+  width: 9.03%;
+  top: 36.14%;
+  right: 16.67%;
+  bottom: 51.81%;
+  left: 74.31%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.part-5-footer {
+  top: 3469px;
+  left: 0;
+  width: 1440px;
+  height: 249px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-coiny);
+}
+.faq {
+  position: absolute;
+  top: calc(50% - 353.5px);
+  left: 44.24%;
+  font-size: 60px;
+  font-weight: 300;
+  color: var(--color-gray-100);
+  text-align: center;
+}
+.lorem-ipsum-dolor {
+  width: 100%;
+  top: calc(50% - 71px);
+  line-height: 24px;
+  display: inline-block;
+}
+.how-does-this,
+.lorem-ipsum-dolor,
+.q-1 {
+  position: absolute;
+  left: 0;
+}
+.how-does-this {
+  top: calc(50% - 121px);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.q-1 {
+  top: 21.07%;
+  right: 61.96%;
+  bottom: 44.7%;
+  overflow: hidden;
+}
+.q-1,
+.q-2,
+.q-3,
+.q-4 {
+  height: 34.23%;
+  width: 38.04%;
+}
+.q-3 {
+  position: absolute;
+  top: 65.77%;
+  right: 61.96%;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+.q-2,
+.q-4 {
+  right: 0;
+  left: 61.96%;
+}
+.q-2 {
+  position: absolute;
+  top: 21.07%;
+  bottom: 44.7%;
+  overflow: hidden;
+}
+.q-4 {
+  top: 65.77%;
+  bottom: 0;
+}
+.background-icon,
+.part-4-faq,
+.q-4 {
+  position: absolute;
+  overflow: hidden;
+}
+.part-4-faq {
+  top: 2678px;
+  left: 249px;
+  width: 920px;
+  height: 707px;
+  color: var(--color-gray-200);
+}
+.background-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.membership {
+  color: var(--color-white);
+}
+.free-membership {
+  position: absolute;
+  top: calc(50% - 181px);
+  left: 42.85%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-mediumorchid);
+}
+.button-background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-mediumorchid);
+}
+.register-for-free {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 13.27%;
+  font-weight: 600;
+}
+.button {
+  position: absolute;
+  height: 8.76%;
+  width: 11.25%;
+  top: 80.88%;
+  right: 44.38%;
+  bottom: 10.36%;
+  left: 44.38%;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+.lorem-ipsum,
+.lorem-ipsum-dolor4 {
+  position: absolute;
+  width: 82.49%;
+  top: calc(50% + 24.5px);
+  left: 8.75%;
+  line-height: 26px;
+  display: inline-block;
+}
+.lorem-ipsum {
+  width: 99.61%;
+  top: calc(50% - 14.5px);
+  left: 0.19%;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.dot-1,
+.smile-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.smile-icon1 {
+  height: 23.11%;
+  width: 16.99%;
+  top: 0.02%;
+  right: 41.49%;
+  bottom: 76.88%;
+  left: 41.52%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dot-1 {
+  height: 30.48%;
+  width: 17.85%;
+  top: 33.47%;
+  right: 70.76%;
+  bottom: 36.06%;
+  left: 11.39%;
+}
+.lorem-ipsum-dolor5 {
+  position: absolute;
+  width: 85.99%;
+  top: calc(50% + 24.5px);
+  left: 7%;
+  line-height: 26px;
+  display: inline-block;
+}
+.dot-2 {
+  position: absolute;
+  height: 30.48%;
+  width: 17.85%;
+  top: 33.47%;
+  right: 51.04%;
+  bottom: 36.06%;
+  left: 31.11%;
+  overflow: hidden;
+}
+.lorem-ipsum-dolor6 {
+  position: absolute;
+  width: 83.66%;
+  top: calc(50% + 24.5px);
+  left: 8.17%;
+  line-height: 26px;
+  display: inline-block;
+}
+.dot-3 {
+  height: 30.48%;
+  width: 17.85%;
+  top: 33.47%;
+  right: 31.25%;
+  bottom: 36.06%;
+  left: 50.9%;
+}
+.dot-3,
+.dot-4,
+.part-3-free-membership {
+  position: absolute;
+  overflow: hidden;
+}
+.dot-4 {
+  height: 30.48%;
+  width: 17.85%;
+  top: 33.47%;
+  right: 11.39%;
+  bottom: 36.06%;
+  left: 70.76%;
+}
+.part-3-free-membership {
+  top: 2109px;
+  left: 0;
+  width: 1440px;
+  height: 502px;
+  text-align: center;
+}
+.most {
+  font-weight: 300;
+}
+.popular {
+  color: var(--color-mediumorchid);
+}
+.most-popular-tutoria-container {
+  position: absolute;
+  top: calc(50% - 225px);
+  left: 39.25%;
+  font-size: var(--font-size-13xl);
+  text-align: center;
+  color: var(--color-gray-100);
+}
+.background1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 4px rgba(7, 22, 41, 0.18);
+}
+.avatar-icon {
+  position: absolute;
+  height: 8.96%;
+  width: 11.76%;
+  top: 77.91%;
+  right: 83.14%;
+  bottom: 13.13%;
+  left: 5.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.min,
+.phillip-massey {
+  position: absolute;
+  top: calc(50% + 95.5px);
+  left: 21.96%;
+  line-height: 27px;
+  font-weight: 600;
+}
+.min {
+  top: calc(50% + 129.5px);
+  left: 78.04%;
+  text-align: right;
+}
+.rating-icon {
+  position: absolute;
+  height: 4.48%;
+  width: 41.96%;
+  top: 91.04%;
+  right: 52.94%;
+  bottom: 4.48%;
+  left: 5.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.lorem-ipsum-dolor8 {
+  position: absolute;
+  width: 94.9%;
+  top: calc(50% + 32.1px);
+  left: 5.1%;
+  line-height: 24px;
+  color: var(--color-gray-200);
+  display: inline-block;
+}
+.diagonal-smile {
+  position: absolute;
+  top: calc(50% + 4.5px);
+  left: 5.1%;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.preview-icon {
+  height: 45.97%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 54.03%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.play-icon,
+.preview-icon,
+.tuto-1 {
+  position: absolute;
+  overflow: hidden;
+}
+.play-icon {
+  height: 19.1%;
+  width: 25.1%;
+  top: 13.43%;
+  right: 37.25%;
+  bottom: 67.46%;
+  left: 37.65%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.tuto-1 {
+  right: 74.51%;
+  left: 4.72%;
+}
+.tuto-1,
+.tuto-2,
+.tuto-3 {
+  height: 74.44%;
+  width: 20.77%;
+  top: 25.56%;
+  bottom: 0;
+}
+.tuto-2 {
+  position: absolute;
+  right: 51.22%;
+  left: 28.01%;
+  overflow: hidden;
+}
+.tuto-3 {
+  right: 28.01%;
+  left: 51.22%;
+}
+.part-2-tutorials,
+.tuto-3,
+.tuto-4 {
+  position: absolute;
+  overflow: hidden;
+}
+.tuto-4 {
+  height: 74.44%;
+  width: 20.77%;
+  top: 25.56%;
+  right: 4.8%;
+  bottom: 0;
+  left: 74.43%;
+}
+.part-2-tutorials {
+  top: 1572px;
+  left: 106px;
+  width: 1228px;
+  height: 450px;
+  color: var(--color-mediumorchid);
+}
+.avatar-icon4,
+.background-icon1 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 1440px;
+  height: 392px;
+}
+.avatar-icon4 {
+  left: 0;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+.weather-presenter {
+  top: calc(50% + 45px);
+}
+.person-name,
+.those-tutorials-ar,
+.weather-presenter {
+  position: absolute;
+  left: 0;
+  line-height: 33.6px;
+}
+.person-name {
+  top: calc(50% + 11px);
+}
+.those-tutorials-ar {
+  width: 100%;
+  top: 0;
+  display: inline-block;
+}
+.text {
+  position: absolute;
+  top: 2px;
+  left: 213px;
+  width: 730px;
+  height: 158px;
+  overflow: hidden;
+}
+.testimonial {
+  position: absolute;
+  top: 108px;
+  left: 260px;
+  width: 943px;
+  height: 160px;
+}
+.part-1-testimonials {
+  position: absolute;
+  top: 1093px;
+  left: -1px;
+  width: 1440px;
+  height: 392px;
+  font-size: var(--font-size-3xl);
+}
+.background-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.get-schooled {
+  position: absolute;
+  top: calc(50% - 326.5px);
+  left: 26.18%;
+  font-size: 120px;
+}
+.grin,
+.laugh,
+.smiles {
+  position: absolute;
+  top: calc(50% - 185.5px);
+  left: 41.18%;
+}
+.grin,
+.laugh {
+  left: 48.89%;
+}
+.laugh {
+  left: 55.35%;
+}
+.register-for-free1 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 12.35%;
+  font-weight: 600;
+}
+.button1 {
+  position: absolute;
+  height: 4.03%;
+  width: 11.25%;
+  top: 38.33%;
+  right: 44.38%;
+  bottom: 57.64%;
+  left: 44.38%;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+}
+.learn-from-the-container {
+  position: absolute;
+  top: calc(50% + 84.5px);
+  left: 41.94%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-mediumorchid);
+}
+.h-smiles,
+.henry-hughes {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  display: inline-block;
+}
+.henry-hughes {
+  top: calc(50% + 41.5px);
+  line-height: 27px;
+  font-weight: 900;
+}
+.h-smiles {
+  top: calc(50% + 70.5px);
+  font-size: var(--font-size-base);
+  line-height: 24px;
+}
+.avatar-icon5,
+.pro-4 {
+  position: absolute;
+  right: 0;
+}
+.avatar-icon5 {
+  height: 63.29%;
+  width: 100%;
+  top: 0;
+  bottom: 36.71%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pro-4 {
+  left: 85.13%;
+}
+.pro-2,
+.pro-3,
+.pro-4 {
+  height: 100%;
+  width: 14.87%;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+.pro-3 {
+  position: absolute;
+  right: 28.64%;
+  left: 56.49%;
+}
+.pro-2 {
+  right: 56.49%;
+  left: 28.64%;
+}
+.pro-1,
+.pro-2,
+.pros {
+  position: absolute;
+}
+.pro-1 {
+  height: 100%;
+  width: 14.87%;
+  top: 0;
+  right: 85.13%;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+.pros {
+  height: 21.68%;
+  width: 70.07%;
+  top: 69.35%;
+  right: 14.86%;
+  bottom: 8.97%;
+  left: 15.07%;
+  font-size: var(--font-size-lg);
+}
+.main-part {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1093px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.logo-icon {
+  top: 0;
+  width: 167.02px;
+  height: 29.46px;
+}
+.courses,
+.logo-icon {
+  position: absolute;
+  left: 0;
+}
+.courses,
+.login,
+.pricing {
+  top: calc(50% - 7.5px);
+}
+.pricing {
+  position: absolute;
+  left: 43.59%;
+}
+.login {
+  left: 85.47%;
+}
+.header,
+.login,
+.menu {
+  position: absolute;
+}
+.menu {
+  top: 1.98px;
+  left: 869.41px;
+  width: 234px;
+  height: 15px;
+  overflow: hidden;
+}
+.header {
+  top: 35.02px;
+  left: 171.59px;
+  width: 1103.41px;
+  height: 29.46px;
+  font-size: var(--font-size-xs);
+}
+.school-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3718px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-source-sans-pro);
+}
